@@ -8,6 +8,5 @@ I'm a tech enthusiast with a passion for coding and problem-solving. Here's a bi
 
 💻 Experience
 🌐 Worked on website development projects.<br>
-
 📱 Currently focused on mobile application development.<br>
-
+🎨 UI/UX Enthusiast | Crafting intuitive digital experiences<br>
